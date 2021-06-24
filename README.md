@@ -13,3 +13,7 @@ voting system :- At a time 4 candidate can be on board because of 4 buttons avai
 <img src="https://github.com/Shrutisinha22/VOTING-MACHINE-USING-ZEDBOARD/blob/main/ZedBoard_RevA_sideA_0_0.png"/>
 
 
+**sample**
+
+<img src="https://github.com/Shrutisinha22/VOTING-MACHINE-USING-ZEDBOARD/blob/main/Capture.JPG"/>
+
