@@ -7,4 +7,4 @@ works in two modes (i) Voting mode:- user can cast their vote only
 used xilinx vivado to do the implementation
 
 voting system :- At a time 4 candidate can be on board because of 4 buttons available And a slide switch as mode And a button as reset And 8 leds for output
-<img src="https://github.com/rajutges/SHORTEST-PATH/blob/main/solution_node/Screenshots_solved/path_3.png"/>
+
